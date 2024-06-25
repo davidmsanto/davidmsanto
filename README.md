@@ -37,22 +37,10 @@
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL%20-%2300f.svg?logo=mysql&logoColor=white">
   </a>
   &emsp;
-  <a href="https://git-scm.com/" target="_blank">
-    <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://github.com/" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white">
-  </a>
+  
 </p>
 
-### 👉 Frontend Development
-<p align="left"> 
-  &emsp; 
-  <a href="https://getbootstrap.com/" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white">
-  </a>   
-</p>
+
 
 ### 👉 Databases & Version Control
 <p align="left">
@@ -64,19 +52,7 @@
     <a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white"></a>
  </p>
   
-### 👉 Tools & Technologies
-<p align="left">
-  &emsp;
-    <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-%23430098.svg?logo=heroku&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.eclipse.org/"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.jetbrains.com/idea/"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?logo=intellij-idea&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.sublimetext.com/"><img alt="Sublime Text" src="https://img.shields.io/badge/Sublime%20Text-FF9800.svg?logo=sublime-text&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.postman.com/"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white"></a>
- </p>
+
 
 <br/>
 
@@ -91,28 +67,20 @@
     <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidmsanto&layout=compact&theme=algolia" alt="davidmsanto" height="192px"/>
     <br/>
-    <b>Note:</b> Top languages only indicate frequently used languages in my public repositories.
+   
   </p>
 </details>
 
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-  <a href="https://github.com/davidmsanto"><img alt="David's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=davidmsanto&custom_title=David%20Santos's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-</details>
 
 <br/>
 
 ## 🙋‍♂️ Let's Connect
 <p align="center">
-  <a href="https://linkedin.com/in/seu_perfil"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="mailto:seuemail@example.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/david-mendon%C3%A7a-152533240"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="mailto:davidms.profissional@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
   <a href="https://github.com/davidmsanto"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 </p>
 
 <hr/>
 
-* Credit: [Candida18](https://github.com/Candida18)
-* Last Edited on: 20/07/2021
+
