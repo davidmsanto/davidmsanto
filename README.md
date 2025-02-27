@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Recent+graduate+in+Analysis+and+Systems+Development;Constant+learner+and+aspiring+Full-Stack+Developer;Front-End+skills+in+HTML%2C+CSS%2C+JavaScript%2C+Java%2C+MySQL%2C+Git%2C+GitHub&center=true&width=850&height=50"></a>
 </p>
 <hr/>
-<h4 align="center"> Graduate in Analysis and Systems Development, passionate about learning and evolving in the field of IT. I have foundational skills in front-end development with HTML, CSS, JavaScript, Java, MySQL, Git, and GitHub. My goal is to become a proficient Full-Stack Developer.</h4>
+<h4 align="center"> Graduate in Analysis and Systems Development, passionate about learning and evolving in the field of IT. I have foundational skills in front-end development with HTML, CSS, JavaScript, Java, MySQL, Git, and GitHub. My goal is to become a proficient Data Analyst.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=davidmsanto&label=Profile%20views&color=0e75b6&style=plastic" alt="davidmsanto" /> </p>
 
