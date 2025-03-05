@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm David Santos! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Graduate+in+Analysis+and+Systems+Development;Constant+learner+and+aspiring+Data Analytics;Data+skills+in+MySQL+PowerB.I+Metabase+Tableau+Excel+Git%2C+GitHub&center=true&width=850&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Graduate+in+Analysis+and+Systems+Development;Constant+learner+and+aspiring+Data Analytics;Data+skills+in+MySQL+PowerB.I+Metabase+Tableau+Excel&center=true&width=850&height=50"></a>
 </p>
 <hr/>
 <h4 align="center"> Graduate in Analysis and Systems Development, passionate about learning and evolving in the field of IT. I have foundational skills in front-end development and Data Analytics with HTML, CSS, JavaScript, Java, Pyton, MySQL, Excel, Power BI, Metabase, Tableau, Git, and GitHub. My goal is to become a proficient Data Analyst.</h4>
